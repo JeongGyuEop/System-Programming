@@ -1,0 +1,4 @@
+/root/libtest_make/CMakeFiles/main.dir
+/root/libtest_make/CMakeFiles/libtest.dir
+/root/libtest_make/CMakeFiles/edit_cache.dir
+/root/libtest_make/CMakeFiles/rebuild_cache.dir
