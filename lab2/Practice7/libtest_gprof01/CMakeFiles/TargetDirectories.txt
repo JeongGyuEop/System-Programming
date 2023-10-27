@@ -1,0 +1,4 @@
+/root/System-Programming/lab2/Practice7/libtest_gprof01/CMakeFiles/main.dir
+/root/System-Programming/lab2/Practice7/libtest_gprof01/CMakeFiles/libtest.dir
+/root/System-Programming/lab2/Practice7/libtest_gprof01/CMakeFiles/edit_cache.dir
+/root/System-Programming/lab2/Practice7/libtest_gprof01/CMakeFiles/rebuild_cache.dir

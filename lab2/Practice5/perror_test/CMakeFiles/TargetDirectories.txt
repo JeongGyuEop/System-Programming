@@ -1,0 +1,4 @@
+/root/System-Programming/lab2/Practice5/perror_test/CMakeFiles/strerror_use.dir
+/root/System-Programming/lab2/Practice5/perror_test/CMakeFiles/my_perror.dir
+/root/System-Programming/lab2/Practice5/perror_test/CMakeFiles/edit_cache.dir
+/root/System-Programming/lab2/Practice5/perror_test/CMakeFiles/rebuild_cache.dir

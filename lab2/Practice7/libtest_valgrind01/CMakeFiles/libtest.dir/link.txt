@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibtest.a CMakeFiles/libtest.dir/lib/lib_operation.o
+/usr/bin/ranlib liblibtest.a

@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/strerror_use.dir/strerror_use.o -o strerror_use  libmy_perror.a 

@@ -1,0 +1,4 @@
+/root/System-Programming/lab2/libtest_make_gdb/CMakeFiles/main.dir
+/root/System-Programming/lab2/libtest_make_gdb/CMakeFiles/libtest.dir
+/root/System-Programming/lab2/libtest_make_gdb/CMakeFiles/edit_cache.dir
+/root/System-Programming/lab2/libtest_make_gdb/CMakeFiles/rebuild_cache.dir

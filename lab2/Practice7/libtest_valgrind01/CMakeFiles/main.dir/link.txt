@@ -1,0 +1,1 @@
+/usr/bin/cc  -pg -rdynamic CMakeFiles/main.dir/main.o -o main  liblibtest.a 
